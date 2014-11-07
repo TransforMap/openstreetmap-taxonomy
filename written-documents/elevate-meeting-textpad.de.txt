@@ -1,0 +1,235 @@
+Working Meeting, Transformap
+
+24.10.2014; 14 - 17 Uhr
+Grüne Akademie, Graz 
+Place : http://www.openstreetmap.org/node/3140385686
+
+wlan gbw, passwort:       1blyp16P2Htm6PO10J1Dbiof44WNeEbG5iBLCAM3IUHyxmzQGt9zhR9wosH6NFs
+
+Attendees:
+    * Silke
+    * Klaus
+    * Josef
+    * Michael
+    * Jon
+    * ...
+
+Einfühlrunde:
+    
+- aus der Idee einer Fahrradtour (Halle <> Potsdam) entstand in Kombination von verschiedenen Kartierungsinitiativen (Graz, Berlin, Anstiftung, etc. )
+    - "Der Weg legt sich beim Gehen unter unsere Füße"
+
+
+* mit Komplexität jetzt umgehen, um sie am Ende zu vermeiden
+* Komplexität verarbeiten, damit umgehen lernen und im Ergebnis (OSM/ OSM+/ Linked Date usw.) abbilden
+
+
+Agenda:
+    basierend auf:
+        Trello Diskussion https://trello.com/c/E2siFYjy/65-elevate-festival-23-10-26-10-2014 +
+        E-Mail : Aktuelle Fragen zur Taxonomie http://list.allmende.io/pipermail/maps/2014-October/000238.html
+
+
+-    Taxonomie
+
+
+Visualisierung von Michael und Josef (10min)
+
+User readable
+Machine readable
+
+( TransforTax (ist eine Taxonomie, die als Alles für Alles gedacht ist
+TransforTax = ( OSM (starre, geographische Datensätze) + NOSMs ( Photos, Events, ... ) )
+Problem: viele Dinge passen gar nicht in OSM, z.b. kann man dort bislang keine Bedürfnisse mappen! 
+anders gesagt: OSM denkt nicht in unseren Begriffen, erlaubt aber einen bestimmten Teilsatz unserer Begriffe einzubringen.
+
+OSM <> NOSM verknüpft durch implizite "Gesetze"/Regeln, Beispiel: Restaurant impliziert provides_need:food
+(nicht OWL, aber RuleML, aber es gibt noch was besseres)
+
+
+Für die Telko:
+    
+jetzt in Taxonomie gucken für nächsten Dienstag
+https://wiki.openstreetmap.org/wiki/User:KartenKarsten/futureMap
+Regelhaftigkeit der Übersetzung müsste empirisch überprüft werden
+
+
+> Wollen wir eine Taxonomie die auf der Kategorie von Bedürfnissen beruht noch einmal mit dem aktuellen Stand der Bedürfnisforschung abgleichen?
+( Welche Bedürfnistheorien gibt es? ) > Version 1. Wird jetzt verwendet und ist so gut wie fertig.
+
+- self description geht wohl durch
+- donations fliegt wohl raus → wandert zu payment methods
+- mode of production korreliert mit politischer selbstidentifikation; fällt wmgl. komplett raus so wie es dasteht.
+    - rutscht vrmtl. tlw. in mode of interaction
+
+
+nur für echte betriebe, realwirtschaft:
+- k. u. r. m. / production input
+    - Sol. Ök. Begriffe hauptsächlich
+    - normativ & ethisch aufgeladen > klarer kriterienkatalog für einzelne begriffe > checkliste.
+- mode of organization ist auch sol. ök.
+
+- nach Silke 1 , 2 + 3
+> mischung normativer welterfassung auf grund verschiedener bereiche mit > Karte von Morgen arbeitet an Bewertungssystemen (s.o. Checkliste).
+
+> empfehlung an sol. öks : Abspaltung der zu feinen RIPESS Taxonomie in ein eigenes Vokabular
+
+
+
+
+--- politische frage { buying und selling }
+(kommen auch die reformer auf die map oder nur die alternativen?)
+
+von münchen an : offener konflikt darüber : was ist alternative ökonomie?
+
+gleiche marktwirtschaftliche logik, ein bisschen grüner, sozialer, dann änderst du nicht die ökonomischen verhältnisee
+
+<>
+
+für mich ist alternative ökonomie nur dass wo die ökonomischen verhältnisse geändert werden.
+
+d.h. die frage wie produziert wird ist entscheidend.
+
+zur bewirkung : was hat mehr potential für impact? nur alternativen darstellen oder auch teilalternativen darzustellen, um die felder zusammenzubringen.
+
+Alternativen <> Reformen unterschiedliche Ansätze. > klare (begriffliche) Grenzen notwendig
+niemenschen ausgrenzen, aber klar unterscheiden.
+
+OuiShare collaborative / sharing economy ist ein Beispiel > TransforMap macht nicht die Arbeit der Reformer.
+
+technisch
+
+Übersetzung durch Transifex
+
+Ähnlichkeit zu existierenden Bestrebungen > Linked Open Data Diskussion auf Loomio https://www.loomio.org/d/5WOvZfEq/linked-open-data
+Open Value Networks > Network Resource Planning https://docs.google.com/presentation/d/1JEPsxJOjEMHNhvIGLXzcvovrpXqpoY75YaPHDKI0t9w/edit#slide=id.g368effe15_32
+Pixel Humain > building Commons http://qa.pixelhumain.com/ph/tools/vie#
+SLUB Dresden > d:swarm http://dmp.slub-dresden.de/datenmanagement/dswarm-hilfe/was-ist-dswarm/
+
+> Jon stellt ein Dossier zusammen
+
+
+
+-    OSM+ (10min) > NOSM
+Datenbank der Taxonomien
+Personen, Events, Photos
+Datahub auf CKAN Basis
+OKFn
+
+
+inhaltlich
+
+allgemeine User + experten User
+politischer Konflikt der sich in der Taxonomie zeigt
+
+
+
+
+-    nächste Treffen + offene Diskussion
+
+Networking
+Was ist passiert : "Auf Stand bringen"
+Stand : Anträge + Kooperationen
+
+
+
+CHEST - keine Neuigkeiten; Abschluss hat sich gut angefühlt. Nicht nehmen vrmtl. nur wg. der Antrag stellenden Organisationen
+HBöllS - Rechnungen stellen, Reisekostenabrechnungen + -belege : alles Mitte November schnell abschließen <> Helmut war schlecht koordiniert
+Zukunft : kleine Workshops : Gutes Leben für alle Tagung : Wien > andere Abteilungen?! Nein; nur über Heike anfragen.
+die kleinen Treffen zwischendurch sind sehr wichtig.
+Full Circle Foundation - ?
+CAPS
+ITC10
+
+
+
+Netzwerke und Projektherausforderungen
+ouishare schicken immer wieder leute zu josef
+social business context -> helmut
+move commons > mehr konfusion
+   > vertröstet
+   > können abgerufen werden
+
+aktiv angesprochen von Josef
+GEN [ Global Ecovillage Network ] : IT Team : Datenbank -aggregation & -interoperabilität : Herausforderung bis Dezember zu lösen.
+aktiv; deren aktuelle Konstellation scheint das nicht lösen zu können
+Transition Network
+aktiv; Österr. Kontext, Böll Reisegeld > Kassel > Ben B.
+Ex-OuiShare Labs > Collabcamp Amsterdam > mit James analysiert
+ECOLISE Kontext bringt die Verständnisfragen zusammen
+
+
+Fahrplan bis Testmapping Maerz
+wir sollten unbedingt asap einen "Transformap-Kongress" machen, als Open Space
+2 Tage
+Vor dem March Map Jam!
+Mitte/Ende Januar
+drei, vier internationale Schlüsselpersonen
+Jason, Neil, Transition, GEN, ECOLISE
+Berlin, alle Resourcen vor Ort
+mit Heike besprechen zur Unterstuetzung
+12.,13. Januar oder 26.,27. - von Silke abhängig.
+ZEGG in Bad Belzig?
+Projekthaus Potsdam?
+
+
+Koordination internationale Adressen und Kontakte
+
+
+Was ist für und auf ELEVATE noch zu tun?
+Koordination Testmapping und Rückmeldungen dazu.
+
+Presets / Spezifizierung / Kategorisierungen
+
+Presets sind Vorlagen - Tagging-Vorlagen die ausdrücken welche Tags/Taxonomieeinträge die Eigenschaften/Properties 
+
+fuer die Taxonomie: 
+   die Kategorien "Knowledge and Resource Management" sowie "Mode of Organization" sind auf lange Sicht kein Ziel fuer OSM, sollten in OSM+ landen. Denn: Da gehoert auch Einflussbereich, und Beziehungen zwischen POIs rein, die technisch garnicht in OSM Platz haben. Und bei solchen Dinge haben diese beiden Kategorien besser Platz.
+
+
+Todo:
+die ergebnisse von heute in einem pad in textfor fuer ein E-Mail an die Liste sammeln
+
+Welche Erkenntnisse für die Taxonomie wurden gewonnen?
+
+ der derzeitige Status der Entwicklung in einem Wiki ist nicht einmal auf kurze Zeit mehr sinnvoll, zu schlecht zu strukturieren, editieren und nicht maschinenlesbar.
+    -> auf Lange Sicht soll die Taxonomie in eine Taxonomie-Datenbank wandern
+    -> Auf kurze Sicht wohl in eine maschinenlesbare Tabelle -> Ethercalc?
+Die Taxonomie wird größer als das, was derzeit für OSM entwickelt wurde, der OSM-Teil ist nur ein Teil der gesamt-Taxonomie
+Die Keys in der Haupt-Taxonomie müssen NICHT gleich lauten wie in den Einzel-Taxonomien, zB OSM -> dazu braucht es automatische "Translation" zwischen den verschiedenen Datenbanken
+-> Die OSM-Keys müssen dann auch nicht alle e.g. "mode_of_organisation:*" heißen, sondern es können einzelne auch anders heißen, zB "mode_of_organization:self_managed" → "self_managed"
+In OSM ist es verpönt, redundante Tags zu verwenden, zB amenity=restaurant impliziert bereits "fulfills_needs:food=yes" -> unser "fulfills_needs:food"-Tag sollte auf einem restaurant NICHT zusätzlich drauf sein!
+um dann jedoch aus OSM alle Dinge, die  "fulfills_needs:food=yes" erfüllen abzufragen, braucht es eine Zuordnung von OSM-Objekten zu impliziten Transformap-Tags -> Defaults müssen in die Taxonomie-Datenbank!
+-> derzeit reicht dafür wohl irgendwo ein RDF-Server, wo wir die paar Dinge von Hand statisch als JSON ablegen
+"Haupt"-Tag ist zumindest für OSM technisch NICHT nötig (auch von der OSM-Community nicht gewünscht) , wir fragen einfach alles ab, was IRGENDEINEN unserer Tags gesetzt hat. - siehe overpass-Turbo Link ganz am Anfang des Proposals!
+die 6 Kategorien werden für die Taxonomie 1.0 auf die ersten 3 gekürzt (siehe Foto des Flipcharts auf Trello).
+Es ist viel leichter, in OSM EINEN Tag zu proposen, als mehrere. Wir werden auch die ersten drei hintereinander proposen.
+mode_of_production fällt weg.
+dit & diy wandert nach mode_of interaction
+alle anderen sind implizit vorgegeben, wenn zb "political_identity:commons" gesetzt ist, impliziert sich daraus ja "mode_of_production:commoning"! -> es reicht "political_identity:commons" zu setzen, nochmal  "mode_of_production:commoning" ist redundant.
+Knowledge and Resource Management und Mode of Organization sind strittig, kommen später oder nur als Zusatz:
+wurden von einem der vielen Stakeholder eingebracht, sind teilweise sehr speziell
+dieser Stakeholder will kontrollieren, ob die Tags richtig verwendet werden "wie verhindern, dass Adidas sich einträgt" -> Kandidat für eigene DB mit peer-review
+einzelne Tags davon sind durchaus sinnvoll und könnten besser alleinstehend ohne prefix verwendet werden:
+mode_of_organization:purpose -> profit_oriented=*
+self_managed
+scale_of_activity
+production_input:natural_recources:fair -> fair_trade
+production_input:natural_recources:regional
+das Gesamtpaket ist sicher nicht für die OSM sinnvoll (eher für eigene DB -> OSM+), da:
+in der OSM-Community vieles als "nicht geo-relevant" eingstuft wurde
+viele Dinge nicht vor Ort überprüft werden können (input:money etc)
+vieles nur vage definiert wurde
+fehlende objektivität: zB von arbeitern und management unterschiedlich gesehen wird (worker payment)
+ für die Übersetzung aller Beschreibungen, labels etc. soll Transifex verwendet werden.
+
+
+
+
+
+
+
+
+
+
+
