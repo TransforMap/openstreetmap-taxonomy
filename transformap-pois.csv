@@ -1,0 +1,19 @@
+Transformap-Unique Keys,label:de,osm-tags,osm-tags optional,osm-tags proposed,needs default,needs optional,political_idenity,pol. id. optional,mode_of_interaction,osm-Beispiel
+communitygarden,Gemeinschaftsgarten,leisure=garden + ?,club=*, + community_managed=yes?,"food&drink,participation","land,learning_opportunities",commons,,,
+,Bioladen,shop=* + organic=only,diet:*,,food&drink,,,,dit_and_diy,
+hackerspace,Hackerspace,leisure=hackerspace,internet_access*; smoking; club=*,-,"learning_opportunities,participation,objects_of_utility,communication=direct (because internet_access=yes)",open_space (if there is a big enough room for workshops etc),,,dit_and_diy,
+,Volxküche,amenity=social_facility + social_facility=food_bank,diet:*; fee,,food&drink,participation,,,,
+,(Obst)Baum,natural=tree,genus; species; access=public/permissive/private,-,food&drink,,,,gifting,
+,Offenes Bücherregal,,,,learning_opportunities,,,,bartering; gifting,
+,Tausch&Schenkregal,,,,,"learning_opportunities (if books explicitely wished/offered)
+food&drink if explicitely wished/offered
+",,,bartering; gifting,
+,Einkaufsgemeinschaft,,,,,,,,,
+,Fahrrad-Werkzeugbox,service:bicycle:diy at a bike cooperative; service:bicycle:tools at a box,vending=bicycle_tube; compressed_air=*,-,objects_of_utility,,,,dit_and_diy,
+,Offene Werkstätte,,club=*,,objects_of_utility; participation,"learning_opportunities if workshops are given;
+open_space (if there is a big enough room for workshops etc)",,,dit_and_diy,
+,Umsonstladen,shop=*,payment:none=yes,,objects_of_utility,participation,,,bartering; gifting,
+,Selbsthilfekontaktstelle,,,,,,,,,https://www.openstreetmap.org/node/2510393021
+,Talente-Tauschkreis,,club=*,,learning_opportunities,objects_of_utility,,,,
+,Selbstverwaltete Bar/Musikbühne,amenity=bar or theatre,club=*; smoking; fee,,culture,open_space (if there is a big enough room for workshops etc),,,,
+,Open Space,,,,,,,,,
