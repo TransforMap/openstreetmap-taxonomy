@@ -1,0 +1,74 @@
+for the first table, an additional tag/value is needed to distinguish needs fulfilled directly (e.g. mobility by a cargo-bicycle sharing initiative) and places (often clubs), which discuss and promote a subject (e.g. "Friends of Tramway Graz) in the meta-level.
+
+
+examples:
+  Erfüllt Bedürfnis direkt (vor ort, Hier)
+        key: "fulfils_needs:*" | "provides:" | "offers:*" | "features:*"
+    water
+        Trinkbrunnen
+        Cafe
+    beverages
+        Cafe
+    communication:
+        WLAN-Hotspot
+    mobility:
+        Fahrradverleih
+    learning_opportunities
+        Schule
+        Fahrschule
+        kindergarten
+        raum für Workshops
+        Bibliothek
+    spirituality
+        Kirchengebäude, Schrein, ...
+
+  Behandelt ein Thema: 
+        key: "deals:*" | "covers:*" | "handles:*" | "subject:*" | "concerns:*"
+    mobility: 
+        Verein der Freunde der Straßenbahn
+    participation: 
+        Parteibüro
+    communication:
+        Fairphone-Zentrale
+        Funkfeuer-Büro
+    water:
+        Wasserwerk
+    energy:
+        Kraftwerk,Windrad?
+        Erdölpumpe?
+        Büro eines virtuellen Energie-Netzbetreibers
+    learning_opportunities
+        Elternverein?
+        Verein, der Fairteiler betreut
+    spirituality
+        Pfarrhaus
+        Katholisch-Theologische Fakultät der Uni
+
+    P2Pfoundation-Büro
+    Forschungsstätte
+    Talente-Tauschkreis
+
+  wie umgehen mit "Nutzt alternative Bedürfnisbefriedigungsmethoden?"
+        key: "input:*"?
+    energy
+        POI wird mit 100% Wasserkraft betrieben
+        Fernwärmeheizung (aus Kohle, aber regional)
+        Kauft regional ein (restaurant)?
+
+ 
+Notes:
+    both values are possible always!
+    transformap-key can != osm-key!
+
+Some possibilities:
+
+* change the yes-value to yes/meta/yes_and_meta/yes;meta - or use 'direct' instead of 'yes'
+
+* add an additional tag: fulfills_needs:food:how = direct / indirect / direct_and_indirect
+
+* add an extra key for each item:
+  fulfils_needs:water=yes
+  cares_needs:water
+
+übergangslösung:
+    fulfils_needs:meta:water=yes
