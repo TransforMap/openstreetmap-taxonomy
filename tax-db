@@ -1,0 +1,31 @@
+welche DB nehmen wir?
+    JSON → CouchDB
+    Michael V's
+    klassische Relationale DB
+
+requirements for tax-db
+    ev. versioning - oder via snapshots?
+    export in JSON-Form
+    übersetzungen
+    mapping zwischen verschiedenen taxonomien
+
+schema requirements
+    transformap-ID of this taxonomy
+    label
+    description
+    grouping of taxonomies
+        label (different langs)
+        long descriptions (d. langs)
+        transformap-key
+
+    mapping to other taxonomies
+        beide richtungen möglich, wobei diese nicht ident sein müssen!
+
+        in unserer DB legen wir für jede Taxonomie eine eigene DB/Tabelle an, und die Verknüpfungen werden für jede Taxonomie in AUSGEHENDER Richtung eingetragen.
+
+        Verknüpfungen:
+            Beispiele
+                TM[Needs:direct:food] → OSM[amenity=restaurant],[amenity=fast_food],...
+                TM[idenity=commons] → OSM[amenity=drinking_water][access!=private],[leisure=park][access!=private],...
+
+
