@@ -23,7 +23,7 @@ examples:
         Kirchengebäude, Schrein, ...
 
   Behandelt ein Thema: 
-        key: "deals:*" | "covers:*" | "handles:*" | "subject:*" | "concerns:*"
+        key: "deals:*" | "covers:*" | "handles:*" | "subject:*" | "concerns:*" | "topic:*"
     mobility: 
         Verein der Freunde der Straßenbahn
     participation: 
@@ -63,12 +63,13 @@ Notes:
 Some possibilities:
 
 * change the yes-value to yes/meta/yes_and_meta/yes;meta - or use 'direct' instead of 'yes'
+    geht aber nur mit fulfils_needs:*!
 
 * add an additional tag: fulfills_needs:food:how = direct / indirect / direct_and_indirect
 
 * add an extra key for each item:
   fulfils_needs:water=yes
-  cares_needs:water
+  cares_needs:water=yes
 
 übergangslösung:
     fulfils_needs:meta:water=yes
