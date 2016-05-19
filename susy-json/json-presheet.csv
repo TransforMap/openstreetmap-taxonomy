@@ -1,0 +1,106 @@
+category	cat#	sub-category	subcat #	initiative #	type_of_initiative-Name	type_of_initiative-key
+Food & Agriculture	10001	Grow it yourself & together	30001	12001	Community Gardening	community_garden
+Food & Agriculture	10001	Grow it yourself & together	30001	12002	Community Supported Agriculture	communitysupported_agriculture
+Food & Agriculture	10001	Grow it yourself & together	30001	12003	Edible Town / City	edible_town
+Food & Agriculture	10001	Grow it yourself & together	30001	12004	Food Buying Circle	foodpurchasing_combine
+Food & Agriculture	10001	Grow it yourself & together	30001	12005	Guerilla gardening	guerilla_garden
+Food & Agriculture	10001	Grow it yourself & together	30001	12006	Seed Saving Initiatives	seed_saving
+Food & Agriculture	10001	Grow it yourself & together	30001	12007	Self harvest	self_harvest
+Food & Agriculture	10001	Grow it yourself & together	30001	12008	Other (open category)	other_growyourself
+Food & Agriculture	10001	Buy local	30002	12009	Direct purchasing / Farm Shop	farm_shop
+Food & Agriculture	10001	Buy local	30002	12010	Community Supported Agriculture	communitysupported_agriculture
+Food & Agriculture	10001	Buy local	30002	12011	Local Farmers Market	local_farmersmarket
+Food & Agriculture	10001	Buy local	30002	12012	Vegetable Box scheme	vegetable_box
+Food & Agriculture	10001	Buy local	30002	12013	Food Buying Circle	foodpurchasing_combine
+Food & Agriculture	10001	Buy local	30002	12014	Virtual direct purchase	virtual_directpurchase
+Food & Agriculture	10001	Buy local	30002	12015	Food Cooperative	food_cooperative
+Food & Agriculture	10001	Buy local	30002	12016	Other (open category)	other_buylocal
+Food & Agriculture	10001	Food Rescue	30003	12017	Foodsharing Groups	foodrescue
+Food & Agriculture	10001	Food Rescue	30003	12018	Foodsharing Distribution Points	foodrescue_distribution
+Food & Agriculture	10001	Food Rescue	30003	12019	Food Rescue Cuisine	foodrescue_cuisine
+Food & Agriculture	10001	Food Rescue	30003	12020	Recycling food waste	recycling_foodwaste
+Food & Agriculture	10001	Food Rescue	30003	12021	Other (open category)	other_foodrescue
+Food & Agriculture	10001	Education & Policy	30004	12022	Agricultural Empowerment	agro_empowerment
+Food & Agriculture	10001	Education & Policy	30004	12023	Agro ecology Education	agroecology_education
+Food & Agriculture	10001	Education & Policy	30004	12024	Farm succession network	agro_sucessionnetwork
+Food & Agriculture	10001	Education & Policy	30004	12025	Food policy councils	foodpolicy_council
+Food & Agriculture	10001	Education & Policy	30004	12026	Food sovereignity initiatives	food_souvereignity
+Food & Agriculture	10001	Education & Policy	30004	12027	Permaculture education	permaculture_education
+Food & Agriculture	10001	Education & Policy	30004	12028	School gardens	schoolgarden
+Food & Agriculture	10001	Education & Policy	30004	12029	Seed Saving Initiatives	seed_saving
+Food & Agriculture	10001	Education & Policy	30004	12030	Slowfood	slowfood
+Food & Agriculture	10001	Education & Policy	30004	12031	Other (open category)	other_foodedunpolicy
+Fair Trade	10002		10002	13001	Fair Trade Shops	fairtrade_shop
+Fair Trade	10002		10002	13002	Fair Trade Schools	fairtrade_school
+Fair Trade	10002		10002	13003	Fair Trade Towns	fairtrade_town
+Fair Trade	10002		10002	13004	Fair Trade Wholesalers	fairtrade_wholesaler
+Fair Trade	10002		10002	13005	Direct Trade	directtrade
+Fair Trade	10002		10002	13006	Development Cooperation	development_cooperation
+Fair Trade	10002		10002	13007	Other (open category)	other_fairtrade
+Reduce, reuse, repair, recycle	10003	Reduce	40001	14001	Waste Awareness Raising	waste_awareness
+Reduce, reuse, repair, recycle	10003	Reduce	40001	14002	No-packaging shops and initiatives	nopacking_shop
+Reduce, reuse, repair, recycle	10003	Reduce	40001	14003	Other (open category)	other_wastereduction
+Reduce, reuse, repair, recycle	10003	Share & Reuse	40002	14004	Used Goods Sales	used_goods
+Reduce, reuse, repair, recycle	10003	Share & Reuse	40002	14005	Flea Market	fleamarket
+Reduce, reuse, repair, recycle	10003	Share & Reuse	40002	14006	Garment Rental	garment_rental
+Reduce, reuse, repair, recycle	10003	Share & Reuse	40002	14007	Give-Away-Shop	giveaway_shop
+Reduce, reuse, repair, recycle	10003	Share & Reuse	40002	14008	Lending Central 	lending_central
+Reduce, reuse, repair, recycle	10003	Share & Reuse	40002	14009	Swap Markets	swap_market
+Reduce, reuse, repair, recycle	10003	Share & Reuse	40002	14010	Other (open category)	other_sharing
+Reduce, reuse, repair, recycle	10003	Repair	40003	14011	Maintenance and repair	repairing
+Reduce, reuse, repair, recycle	10003	Repair	40003	14012	Repair Cafes	repair_cafe
+Reduce, reuse, repair, recycle	10003	Repair	40003	14013	Resell or repaired goods	repair_resale
+Reduce, reuse, repair, recycle	10003	Repair	40003	14014	Other (open category)	other_repair
+Reduce, reuse, repair, recycle	10003	Recycle & Upcycle	40004	14015	Recycling	recycling
+Reduce, reuse, repair, recycle	10003	Recycle & Upcycle	40004	14016	Upcycling	upcycling
+Reduce, reuse, repair, recycle	10003	Recycle & Upcycle	40004	14017	Eco applied art 	eco_art
+Reduce, reuse, repair, recycle	10003	Recycle & Upcycle	40004	14018	Other (open category)	other_reupcycle
+Housing & habitat	10004		10004	15001	Cohousing	cohousing
+Housing & habitat	10004		10004	15002	Communes	commune
+Housing & habitat	10004		10004	15003	Ecovillages	ecovillage
+Housing & habitat	10004		10004	15004	Squatting	squatted_place
+Housing & habitat	10004		10004	15005	Other (open category)	other_habitat
+Infrastructure & Ressorces	10005		10005	16001	Free Space / Shared Space	freespace
+Infrastructure & Ressorces	10005		10005	16002	Sustainable Mobility Initiative	sustainable_mobility
+Infrastructure & Ressorces	10005		10005	16003	Bicycle Self Repair	bicycle_selfrepair
+Infrastructure & Ressorces	10005		10005	16004	Bicycle Awareness NGO	bicycle_awareness
+Infrastructure & Ressorces	10005		10005	16005	Local Collective Energy Ownership	collective_energy
+Infrastructure & Ressorces	10005		10005	16006	Local Collective Ressource Ownership	localcollective_ressources
+Infrastructure & Ressorces	10005		10005	16007	Community forestry	community_forestry
+Infrastructure & Ressorces	10005		10005	16008	Other (open category)	other_infraressources
+Social inclusion	10006		10006	17001	Social Inclusion through employment	socialinclusion_employment
+Social inclusion	10006		10006	17002	Empowerement Initiatives	socialinclusion_empowerment
+Social inclusion	10006		10006	17003	Social Shops (Social Supermarket)	lowincome_supermarket
+Social inclusion	10006		10006	17004	Foodbank	foodbank
+Social inclusion	10006		10006	17005	Homeless Shelter	homeless_shelter
+Social inclusion	10006		10006	17006	Other (open category)	other_socialinclusion
+Education & Training	10007		10007	18001	Coworking	coworking
+Education & Training	10007		10007	18002	Enterprise Centers & Incubators	business_incubators
+Education & Training	10007		10007	18003	Entrepreneurship Education	entrepreneurship_education
+Education & Training	10007		10007	18004	Social Business Incubator	social_incubators
+Education & Training	10007		10007	18005	Sustainable & Solidarity Education	sse_education
+Education & Training	10007		10007	18006	Sustainable & Solidarity Research	sse_research
+Education & Training	10007		10007	18007	Other (open category)	other_education
+Finance	10008		10008	19001	Community currency	communitycurrency
+Finance	10008		10008	19002	Microfinance 	microfinance
+Finance	10008		10008	19003	Mutual Insurance	mutual_insurance
+Finance	10008		10008	19004	Promoting ethical financing	ethicalfinance_education
+Finance	10008		10008	19005	Solidarity Lending	solidarity_lending
+Finance	10008		10008	19006	Time Banking	timebanking
+Finance	10008		10008	19007	Other (open category)	other_finance
+Active Citizenship	10009	Political engagement	50001	20001	Direct Democracy Initiatives	directdemocracy
+Active Citizenship	10009	Political engagement	50001	20002	Consumerism Awareness Raising	consumerism_awareness
+Active Citizenship	10009	Political engagement	50001	20003	Other (open category)	other_political
+Active Citizenship	10009	Participation	50002	20004	Participatory Public Funds	participatory_budgeting
+Active Citizenship	10009	Participation	50002	20005	Citizen Council	citizen_council
+Active Citizenship	10009	Participation	50002	20006	Youth Council	youth_council
+Active Citizenship	10009	Participation	50002	20007	Other (open category)	other_participation
+Active Citizenship	10009	Communities / Networks	50003	20008	CSOs / NGOs	ngo
+Active Citizenship	10009	Communities / Networks	50003	20009	Community Groups	community_group
+Active Citizenship	10009	Communities / Networks	50003	20010	Networking Initiatives	networking_initiative
+Active Citizenship	10009	Communities / Networks	50003	20011	Other (open category)	other_communities
+Self-Organization & mutuality	10010		10010	21001	Mutual Societies Art	mutualsociety_art
+Self-Organization & mutuality	10010		10010	21002	Mutual Societies Aid	mutualsociety_aid
+Self-Organization & mutuality	10010		10010	21003	Mutual Insurance	mutual_insurance
+Self-Organization & mutuality	10010		10010	21004	Other (open category)	other_mutualsociety
+SUSY-map partner network	10011		10011	22000	SSEDAS partners	ssedas_partner

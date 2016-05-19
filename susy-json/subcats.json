@@ -1,0 +1,209 @@
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q30001"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Grow it yourself & together"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q22#taxonomy_category"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q10001"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q30002"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Buy local"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q22#taxonomy_category"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q10001"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q30003"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Food Rescue"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q22#taxonomy_category"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q10001"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q30004"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Education & Policy"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q22#taxonomy_category"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q10001"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q40001"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Reduce"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q22#taxonomy_category"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q10003"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q40002"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Share & Reuse"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q22#taxonomy_category"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q10003"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q40003"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Repair"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q22#taxonomy_category"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q10003"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q40004"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Recycle & Upcycle"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q22#taxonomy_category"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q10003"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q50001"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Political engagement"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q22#taxonomy_category"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q10009"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q50002"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Participation"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q22#taxonomy_category"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q10009"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q50003"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Communities / Networks"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q22#taxonomy_category"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "http://base.transformap.co/entity/Q10009"
+        }
+      },
