@@ -237,6 +237,25 @@
       {
         "item": {
           "type": "uri",
+          "value": "https://base.transformap.co/entity/Q10012#CATEGORY12"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Other"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q22#taxonomy_category"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q1234#SSEDAS_TAX_UUID"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
           "value": "https://base.transformap.co/entity/Q30001"
         },
         "itemLabel": {
@@ -2856,6 +2875,29 @@
         "type_of_initiative_tag": {
           "type": "literal",
           "value": "ssedas_partner"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q22001"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Other"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q13742#TypeOfInitiative"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q10012"
+        },
+        "type_of_initiative_tag": {
+          "type": "literal",
+          "value": "other"
         }
       }
     ]
