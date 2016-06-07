@@ -2778,7 +2778,7 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10010"
+          "value": "https://base.transformap.co/entity/Q100100"
         },
         "type_of_initiative_tag": {
           "type": "literal",
@@ -2801,7 +2801,7 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10010"
+          "value": "https://base.transformap.co/entity/Q100100"
         },
         "type_of_initiative_tag": {
           "type": "literal",
@@ -2824,7 +2824,7 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10010"
+          "value": "https://base.transformap.co/entity/Q100100"
         },
         "type_of_initiative_tag": {
           "type": "literal",
@@ -2847,7 +2847,7 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10010"
+          "value": "https://base.transformap.co/entity/Q100100"
         },
         "type_of_initiative_tag": {
           "type": "literal",
