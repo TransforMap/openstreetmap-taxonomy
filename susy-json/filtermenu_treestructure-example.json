@@ -1,0 +1,64 @@
+{
+  "xml:lang": "en",
+  "elements": [
+    { 
+      "type": "category",
+      "UUID":"https://base.transformap.co/entity/Q10001#CATEGORY1",
+      "itemLabel": "Food & Agriculture",
+      "elements" : [
+        {
+          "type": "subcategory",
+          "UUID":"https://base.transformap.co/entity/Q30001",
+          "itemLabel": "Grow it yourself & together",
+          "elements" : [
+            {
+              "type":"type_of_initiative",
+              "UUID":"https://base.transformap.co/entity/Q12002",
+              "itemLabel": "Community Supported Agriculture",
+              "type_of_initiative_tag": "communitysupported_agriculture"
+            },
+            {
+              "type":"type_of_initiative",
+              "UUID":"https://base.transformap.co/entity/Q12003",
+              "itemLabel": "Edible Town / City",
+              "type_of_initiative_tag": "edible_town"
+            }
+
+          ]
+        },
+        {
+          "type": "subcategory",
+          "UUID": "https://base.transformap.co/entity/Q30002",
+          "itemLabel": "Buy local",
+          "elements" : [
+            {
+              "type":"type_of_initiative",
+              "UUID":"https://base.transformap.co/entity/Q12009",
+              "itemLabel": "Direct purchasing / Farm Shop",
+              "type_of_initiative_tag": "farm_shop"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "UUID":"https://base.transformap.co/entity/Q100022CATEGORY2",
+      "itemLabel": "Fair Trade",
+      "elements" : [
+        {
+          "type":"type_of_initiative",
+          "UUID":"https://base.transformap.co/entity/Q13001",
+          "itemLabel": "Fair Trade Shops",
+          "type_of_initiative_tag": "fairtrade_shop"
+        },
+        {
+          "type":"type_of_initiative",
+          "UUID":"https://base.transformap.co/entity/Q13002",
+          "itemLabel": "Fair Trade Schools",
+          "type_of_initiative_tag": "fairtrade_school"
+        }
+      ]
+    }
+  ]
+}
