@@ -10,8 +10,8 @@
       var output = {};
       //$.getJSON("https://github.com/TransforMap/openstreetmap-taxonomy/raw/a7e82d46020818b93902334d42d2ba8eab514a28/susy-json/taxonomy.json", function(data) {
       $.getJSON("taxonomy.json", function(data) {
-        //document.write(JSON.stringify(data));
-        var retval = convert_tax_to_tree(data)
+        var retval = convert_tax_to_tree(data);
+ //       document.write(JSON.stringify(retval));
         console.log(retval);
 
       });

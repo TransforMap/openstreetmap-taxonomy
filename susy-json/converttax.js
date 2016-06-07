@@ -22,17 +22,41 @@ function convert_tax_to_tree(flatjson) {
   flat_elements.forEach(function(entry){
     if(entry["subclass_of"]) {
       if(entry["subclass_of"].value == root_id) {
-        treejson.elements.push({
+        treejson.elements.push(
+            {
               "type": "category",
               "UUID": entry.item.value,
               "itemLabel": entry.itemLabel.value,
               "elements" : []
-        });
+            }
+        );
       }
     }
   });
 
   // get all child categories for the main categories
+  treejson.elements.forEach(function(category_item){
+
+    var uuid_of_category = category_item.UUID;
+    console.log(uuid_of_category);
+
+    flat_elements.forEach(function(entry){
+      if(entry["subclass_of"]) {
+        if(entry["subclass_of"].value == uuid_of_category) {
+          category_item.elements.push(
+              {
+                "type": "subcategory",
+                "UUID": entry.item.value,
+                "itemLabel": entry.itemLabel.value,
+                "elements" : []
+              }
+          );
+        }
+      }
+    });
+    
+  });
+
 
   // get all type of initiatives and hang them to their parent category
 
