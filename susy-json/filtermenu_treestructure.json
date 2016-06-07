@@ -1,0 +1,777 @@
+{
+  "xml:lang": "en",
+  "elements": [
+    {
+      "type": "category",
+      "UUID": "https://base.transformap.co/entity/Q10001",
+      "itemLabel": "Food & Agriculture",
+      "elements": [
+        {
+          "type": "subcategory",
+          "UUID": "https://base.transformap.co/entity/Q30001",
+          "itemLabel": "Grow it yourself & together",
+          "elements": [
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12001",
+              "itemLabel": "Community Gardening",
+              "type_of_initiative_tag": "community_garden"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12002",
+              "itemLabel": "Community Supported Agriculture",
+              "type_of_initiative_tag": "communitysupported_agriculture"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12003",
+              "itemLabel": "Edible Town / City",
+              "type_of_initiative_tag": "edible_town"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12004",
+              "itemLabel": "Food Buying Circle",
+              "type_of_initiative_tag": "foodpurchasing_combine"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12005",
+              "itemLabel": "Guerilla gardening",
+              "type_of_initiative_tag": "guerilla_garden"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12006",
+              "itemLabel": "Seed Saving Initiatives",
+              "type_of_initiative_tag": "seed_saving"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12007",
+              "itemLabel": "Self harvest",
+              "type_of_initiative_tag": "self_harvest"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12008",
+              "itemLabel": "Other (open category)",
+              "type_of_initiative_tag": "other_growyourself"
+            }
+          ]
+        },
+        {
+          "type": "subcategory",
+          "UUID": "https://base.transformap.co/entity/Q30002",
+          "itemLabel": "Buy local",
+          "elements": [
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12009",
+              "itemLabel": "Direct purchasing / Farm Shop",
+              "type_of_initiative_tag": "farm_shop"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12010",
+              "itemLabel": "Community Supported Agriculture",
+              "type_of_initiative_tag": "communitysupported_agriculture"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12011",
+              "itemLabel": "Local Farmers Market",
+              "type_of_initiative_tag": "local_farmersmarket"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12012",
+              "itemLabel": "Vegetable Box scheme",
+              "type_of_initiative_tag": "vegetable_box"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12013",
+              "itemLabel": "Food Buying Circle",
+              "type_of_initiative_tag": "foodpurchasing_combine"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12014",
+              "itemLabel": "Virtual direct purchase",
+              "type_of_initiative_tag": "virtual_directpurchase"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12015",
+              "itemLabel": "Food Cooperative",
+              "type_of_initiative_tag": "food_cooperative"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12016",
+              "itemLabel": "Other (open category)",
+              "type_of_initiative_tag": "other_buylocal"
+            }
+          ]
+        },
+        {
+          "type": "subcategory",
+          "UUID": "https://base.transformap.co/entity/Q30003",
+          "itemLabel": "Food Rescue",
+          "elements": [
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12017",
+              "itemLabel": "Foodsharing Groups",
+              "type_of_initiative_tag": "foodrescue"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12018",
+              "itemLabel": "Foodsharing Distribution Points",
+              "type_of_initiative_tag": "foodrescue_distribution"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12019",
+              "itemLabel": "Food Rescue Cuisine",
+              "type_of_initiative_tag": "foodrescue_cuisine"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12020",
+              "itemLabel": "Recycling food waste",
+              "type_of_initiative_tag": "recycling_foodwaste"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12021",
+              "itemLabel": "Other (open category)",
+              "type_of_initiative_tag": "other_foodrescue"
+            }
+          ]
+        },
+        {
+          "type": "subcategory",
+          "UUID": "https://base.transformap.co/entity/Q30004",
+          "itemLabel": "Education & Policy",
+          "elements": [
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12022",
+              "itemLabel": "Agricultural Empowerment",
+              "type_of_initiative_tag": "agro_empowerment"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12023",
+              "itemLabel": "Agro ecology Education",
+              "type_of_initiative_tag": "agroecology_education"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12024",
+              "itemLabel": "Farm succession network",
+              "type_of_initiative_tag": "agro_sucessionnetwork"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12025",
+              "itemLabel": "Food policy councils",
+              "type_of_initiative_tag": "foodpolicy_council"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12026",
+              "itemLabel": "Food sovereignity initiatives",
+              "type_of_initiative_tag": "food_souvereignity"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12027",
+              "itemLabel": "Permaculture education",
+              "type_of_initiative_tag": "permaculture_education"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12028",
+              "itemLabel": "School gardens",
+              "type_of_initiative_tag": "schoolgarden"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12029",
+              "itemLabel": "Seed Saving Initiatives",
+              "type_of_initiative_tag": "seed_saving"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12030",
+              "itemLabel": "Slowfood",
+              "type_of_initiative_tag": "slowfood"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q12031",
+              "itemLabel": "Other (open category)",
+              "type_of_initiative_tag": "other_foodedunpolicy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "UUID": "https://base.transformap.co/entity/Q10002",
+      "itemLabel": "Fair Trade",
+      "elements": [
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q13001",
+          "itemLabel": "Fair Trade Shops",
+          "type_of_initiative_tag": "fairtrade_shop"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q13002",
+          "itemLabel": "Fair Trade Schools",
+          "type_of_initiative_tag": "fairtrade_school"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q13003",
+          "itemLabel": "Fair Trade Towns",
+          "type_of_initiative_tag": "fairtrade_town"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q13004",
+          "itemLabel": "Fair Trade Wholesalers",
+          "type_of_initiative_tag": "fairtrade_wholesaler"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q13005",
+          "itemLabel": "Direct Trade",
+          "type_of_initiative_tag": "directtrade"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q13006",
+          "itemLabel": "Development Cooperation",
+          "type_of_initiative_tag": "development_cooperation"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q13007",
+          "itemLabel": "Other (open category)",
+          "type_of_initiative_tag": "other_fairtrade"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "UUID": "https://base.transformap.co/entity/Q10003",
+      "itemLabel": "Reduce, reuse, repair, recycle",
+      "elements": [
+        {
+          "type": "subcategory",
+          "UUID": "https://base.transformap.co/entity/Q40001",
+          "itemLabel": "Reduce",
+          "elements": [
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14001",
+              "itemLabel": "Waste Awareness Raising",
+              "type_of_initiative_tag": "waste_awareness"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14002",
+              "itemLabel": "No-packaging shops and initiatives",
+              "type_of_initiative_tag": "nopacking_shop"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14003",
+              "itemLabel": "Other (open category)",
+              "type_of_initiative_tag": "other_wastereduction"
+            }
+          ]
+        },
+        {
+          "type": "subcategory",
+          "UUID": "https://base.transformap.co/entity/Q40002",
+          "itemLabel": "Share & Reuse",
+          "elements": [
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14004",
+              "itemLabel": "Used Goods Sales",
+              "type_of_initiative_tag": "used_goods"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14005",
+              "itemLabel": "Flea Market",
+              "type_of_initiative_tag": "fleamarket"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14006",
+              "itemLabel": "Garment Rental",
+              "type_of_initiative_tag": "garment_rental"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14007",
+              "itemLabel": "Give-Away-Shop",
+              "type_of_initiative_tag": "giveaway_shop"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14008",
+              "itemLabel": "Lending Central ",
+              "type_of_initiative_tag": "lending_central"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14009",
+              "itemLabel": "Swap Markets",
+              "type_of_initiative_tag": "swap_market"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14010",
+              "itemLabel": "Other (open category)",
+              "type_of_initiative_tag": "other_sharing"
+            }
+          ]
+        },
+        {
+          "type": "subcategory",
+          "UUID": "https://base.transformap.co/entity/Q40003",
+          "itemLabel": "Repair",
+          "elements": [
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14011",
+              "itemLabel": "Maintenance and repair",
+              "type_of_initiative_tag": "repairing"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14012",
+              "itemLabel": "Repair Cafes",
+              "type_of_initiative_tag": "repair_cafe"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14013",
+              "itemLabel": "Resell or repaired goods",
+              "type_of_initiative_tag": "repair_resale"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14014",
+              "itemLabel": "Other (open category)",
+              "type_of_initiative_tag": "other_repair"
+            }
+          ]
+        },
+        {
+          "type": "subcategory",
+          "UUID": "https://base.transformap.co/entity/Q40004",
+          "itemLabel": "Recycle & Upcycle",
+          "elements": [
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14015",
+              "itemLabel": "Recycling",
+              "type_of_initiative_tag": "recycling"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14016",
+              "itemLabel": "Upcycling",
+              "type_of_initiative_tag": "upcycling"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14017",
+              "itemLabel": "Eco applied art ",
+              "type_of_initiative_tag": "eco_art"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q14018",
+              "itemLabel": "Other (open category)",
+              "type_of_initiative_tag": "other_reupcycle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "UUID": "https://base.transformap.co/entity/Q10004",
+      "itemLabel": "Housing & habitat",
+      "elements": [
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q15001",
+          "itemLabel": "Cohousing",
+          "type_of_initiative_tag": "cohousing"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q15002",
+          "itemLabel": "Communes",
+          "type_of_initiative_tag": "commune"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q15003",
+          "itemLabel": "Ecovillages",
+          "type_of_initiative_tag": "ecovillage"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q15004",
+          "itemLabel": "Squatting",
+          "type_of_initiative_tag": "squatted_place"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q15005",
+          "itemLabel": "Other (open category)",
+          "type_of_initiative_tag": "other_habitat"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "UUID": "https://base.transformap.co/entity/Q10005",
+      "itemLabel": "Infrastructure & Resources",
+      "elements": [
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q16001",
+          "itemLabel": "Free Space / Shared Space",
+          "type_of_initiative_tag": "freespace"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q16002",
+          "itemLabel": "Sustainable Mobility Initiative",
+          "type_of_initiative_tag": "sustainable_mobility"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q16003",
+          "itemLabel": "Bicycle Self Repair",
+          "type_of_initiative_tag": "bicycle_selfrepair"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q16004",
+          "itemLabel": "Bicycle Awareness NGO",
+          "type_of_initiative_tag": "bicycle_awareness"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q16005",
+          "itemLabel": "Local Collective Energy Ownership",
+          "type_of_initiative_tag": "collective_energy"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q16006",
+          "itemLabel": "Local Collective Ressource Ownership",
+          "type_of_initiative_tag": "localcollective_ressources"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q16007",
+          "itemLabel": "Community forestry",
+          "type_of_initiative_tag": "community_forestry"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q16008",
+          "itemLabel": "Other (open category)",
+          "type_of_initiative_tag": "other_infraressources"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "UUID": "https://base.transformap.co/entity/Q10006",
+      "itemLabel": "Social inclusion",
+      "elements": [
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q17001",
+          "itemLabel": "Social Inclusion through employment",
+          "type_of_initiative_tag": "socialinclusion_employment"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q17002",
+          "itemLabel": "Empowerement Initiatives",
+          "type_of_initiative_tag": "socialinclusion_empowerment"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q17003",
+          "itemLabel": "Social Shops (Social Supermarket)",
+          "type_of_initiative_tag": "lowincome_supermarket"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q17004",
+          "itemLabel": "Foodbank",
+          "type_of_initiative_tag": "foodbank"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q17005",
+          "itemLabel": "Homeless Shelter",
+          "type_of_initiative_tag": "homeless_shelter"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q17006",
+          "itemLabel": "Other (open category)",
+          "type_of_initiative_tag": "other_socialinclusion"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "UUID": "https://base.transformap.co/entity/Q10007",
+      "itemLabel": "Education & Training",
+      "elements": [
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q18001",
+          "itemLabel": "Coworking",
+          "type_of_initiative_tag": "coworking"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q18002",
+          "itemLabel": "Enterprise Centers & Incubators",
+          "type_of_initiative_tag": "business_incubators"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q18003",
+          "itemLabel": "Entrepreneurship Education",
+          "type_of_initiative_tag": "entrepreneurship_education"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q18004",
+          "itemLabel": "Social Business Incubator",
+          "type_of_initiative_tag": "social_incubators"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q18005",
+          "itemLabel": "Sustainable & Solidarity Education",
+          "type_of_initiative_tag": "sse_education"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q18006",
+          "itemLabel": "Sustainable & Solidarity Research",
+          "type_of_initiative_tag": "sse_research"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q18007",
+          "itemLabel": "Other (open category)",
+          "type_of_initiative_tag": "other_education"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "UUID": "https://base.transformap.co/entity/Q10008",
+      "itemLabel": "Finance",
+      "elements": [
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q19001",
+          "itemLabel": "Community currency",
+          "type_of_initiative_tag": "communitycurrency"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q19002",
+          "itemLabel": "Microfinance ",
+          "type_of_initiative_tag": "microfinance"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q19003",
+          "itemLabel": "Mutual Insurance",
+          "type_of_initiative_tag": "mutual_insurance"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q19004",
+          "itemLabel": "Promoting ethical financing",
+          "type_of_initiative_tag": "ethicalfinance_education"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q19005",
+          "itemLabel": "Solidarity Lending",
+          "type_of_initiative_tag": "solidarity_lending"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q19006",
+          "itemLabel": "Time Banking",
+          "type_of_initiative_tag": "timebanking"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q19007",
+          "itemLabel": "Other (open category)",
+          "type_of_initiative_tag": "other_finance"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "UUID": "https://base.transformap.co/entity/Q10009",
+      "itemLabel": "Active Citizenship",
+      "elements": [
+        {
+          "type": "subcategory",
+          "UUID": "https://base.transformap.co/entity/Q50001",
+          "itemLabel": "Political engagement",
+          "elements": [
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q20001",
+              "itemLabel": "Direct Democracy Initiatives",
+              "type_of_initiative_tag": "directdemocracy"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q20002",
+              "itemLabel": "Consumerism Awareness Raising",
+              "type_of_initiative_tag": "consumerism_awareness"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q20003",
+              "itemLabel": "Other (open category)",
+              "type_of_initiative_tag": "other_political"
+            }
+          ]
+        },
+        {
+          "type": "subcategory",
+          "UUID": "https://base.transformap.co/entity/Q50002",
+          "itemLabel": "Participation",
+          "elements": [
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q20004",
+              "itemLabel": "Participatory Public Funds",
+              "type_of_initiative_tag": "participatory_budgeting"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q20005",
+              "itemLabel": "Citizen Council",
+              "type_of_initiative_tag": "citizen_council"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q20006",
+              "itemLabel": "Youth Council",
+              "type_of_initiative_tag": "youth_council"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q20007",
+              "itemLabel": "Other (open category)",
+              "type_of_initiative_tag": "other_participation"
+            }
+          ]
+        },
+        {
+          "type": "subcategory",
+          "UUID": "https://base.transformap.co/entity/Q50003",
+          "itemLabel": "Communities / Networks",
+          "elements": [
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q20008",
+              "itemLabel": "CSOs / NGOs",
+              "type_of_initiative_tag": "ngo"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q20009",
+              "itemLabel": "Community Groups",
+              "type_of_initiative_tag": "community_group"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q20010",
+              "itemLabel": "Networking Initiatives",
+              "type_of_initiative_tag": "networking_initiative"
+            },
+            {
+              "type": "type_of_initiative",
+              "UUID": "https://base.transformap.co/entity/Q20011",
+              "itemLabel": "Other (open category)",
+              "type_of_initiative_tag": "other_communities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "UUID": "https://base.transformap.co/entity/Q100100",
+      "itemLabel": "Self-Organization & mutuality",
+      "elements": []
+    },
+    {
+      "type": "category",
+      "UUID": "https://base.transformap.co/entity/Q100111",
+      "itemLabel": "SUSY-map partner network",
+      "elements": [
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q22000",
+          "itemLabel": "SSEDAS partners",
+          "type_of_initiative_tag": "ssedas_partner"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "UUID": "https://base.transformap.co/entity/Q100122",
+      "itemLabel": "Other",
+      "elements": [
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q22001",
+          "itemLabel": "Other",
+          "type_of_initiative_tag": "other"
+        }
+      ]
+    }
+  ]
+}
