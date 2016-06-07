@@ -13,7 +13,7 @@
       {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234#SSEDAS_TAX_UUID"
+          "value": "https://base.transformap.co/entity/Q1234"
         },
         "itemLabel": {
           "xml:lang": "en",
@@ -28,7 +28,7 @@
       {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10001#CATEGORY1"
+          "value": "https://base.transformap.co/entity/Q10001"
         },
         "itemLabel": {
           "xml:lang": "en",
@@ -41,13 +41,13 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234#SSEDAS_TAX_UUID"
+          "value": "https://base.transformap.co/entity/Q1234"
         }
       },
       {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10002#CATEGORY2"
+          "value": "https://base.transformap.co/entity/Q10002"
         },
         "itemLabel": {
           "xml:lang": "en",
@@ -60,13 +60,13 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234#SSEDAS_TAX_UUID"
+          "value": "https://base.transformap.co/entity/Q1234"
         }
       },
       {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10003#CATEGORY3"
+          "value": "https://base.transformap.co/entity/Q10003"
         },
         "itemLabel": {
           "xml:lang": "en",
@@ -79,13 +79,13 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234#SSEDAS_TAX_UUID"
+          "value": "https://base.transformap.co/entity/Q1234"
         }
       },
       {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10004#CATEGORY4"
+          "value": "https://base.transformap.co/entity/Q10004"
         },
         "itemLabel": {
           "xml:lang": "en",
@@ -98,13 +98,13 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234#SSEDAS_TAX_UUID"
+          "value": "https://base.transformap.co/entity/Q1234"
         }
       },
       {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10005#CATEGORY5"
+          "value": "https://base.transformap.co/entity/Q10005"
         },
         "itemLabel": {
           "xml:lang": "en",
@@ -117,13 +117,13 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234#SSEDAS_TAX_UUID"
+          "value": "https://base.transformap.co/entity/Q1234"
         }
       },
       {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10006#CATEGORY6"
+          "value": "https://base.transformap.co/entity/Q10006"
         },
         "itemLabel": {
           "xml:lang": "en",
@@ -136,13 +136,13 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234#SSEDAS_TAX_UUID"
+          "value": "https://base.transformap.co/entity/Q1234"
         }
       },
       {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10007#CATEGORY7"
+          "value": "https://base.transformap.co/entity/Q10007"
         },
         "itemLabel": {
           "xml:lang": "en",
@@ -155,13 +155,13 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234#SSEDAS_TAX_UUID"
+          "value": "https://base.transformap.co/entity/Q1234"
         }
       },
       {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10008#CATEGORY8"
+          "value": "https://base.transformap.co/entity/Q10008"
         },
         "itemLabel": {
           "xml:lang": "en",
@@ -174,13 +174,13 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234#SSEDAS_TAX_UUID"
+          "value": "https://base.transformap.co/entity/Q1234"
         }
       },
       {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10009#CATEGORY9"
+          "value": "https://base.transformap.co/entity/Q10009"
         },
         "itemLabel": {
           "xml:lang": "en",
@@ -193,13 +193,13 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234#SSEDAS_TAX_UUID"
+          "value": "https://base.transformap.co/entity/Q1234"
         }
       },
       {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10010#CATEGORY10"
+          "value": "https://base.transformap.co/entity/Q100100"
         },
         "itemLabel": {
           "xml:lang": "en",
@@ -212,13 +212,13 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234#SSEDAS_TAX_UUID"
+          "value": "https://base.transformap.co/entity/Q1234"
         }
       },
       {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10011#CATEGORY11"
+          "value": "https://base.transformap.co/entity/Q100111"
         },
         "itemLabel": {
           "xml:lang": "en",
@@ -231,13 +231,13 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234#SSEDAS_TAX_UUID"
+          "value": "https://base.transformap.co/entity/Q1234"
         }
       },
       {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10012#CATEGORY12"
+          "value": "https://base.transformap.co/entity/Q100122"
         },
         "itemLabel": {
           "xml:lang": "en",
@@ -250,7 +250,7 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234#SSEDAS_TAX_UUID"
+          "value": "https://base.transformap.co/entity/Q1234"
         }
       },
       {
@@ -2870,7 +2870,7 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10011"
+          "value": "https://base.transformap.co/entity/Q100111"
         },
         "type_of_initiative_tag": {
           "type": "literal",
@@ -2893,7 +2893,7 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10012"
+          "value": "https://base.transformap.co/entity/Q100122"
         },
         "type_of_initiative_tag": {
           "type": "literal",
