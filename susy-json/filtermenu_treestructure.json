@@ -745,7 +745,32 @@
       "type": "category",
       "UUID": "https://base.transformap.co/entity/Q100100",
       "itemLabel": "Self-Organization & mutuality",
-      "elements": []
+      "elements": [
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q21001",
+          "itemLabel": "Mutual Societies Art",
+          "type_of_initiative_tag": "mutualsociety_art"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q21002",
+          "itemLabel": "Mutual Societies Aid",
+          "type_of_initiative_tag": "mutualsociety_aid"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q21003",
+          "itemLabel": "Mutual Insurance",
+          "type_of_initiative_tag": "mutual_insurance"
+        },
+        {
+          "type": "type_of_initiative",
+          "UUID": "https://base.transformap.co/entity/Q21004",
+          "itemLabel": "Other (open category)",
+          "type_of_initiative_tag": "other_mutualsociety"
+        }
+      ]
     },
     {
       "type": "category",
